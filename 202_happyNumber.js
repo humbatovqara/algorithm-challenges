@@ -1,3 +1,7 @@
+/*
+  COMPLETED
+*/
+
 var isHappy = function (n) {
   let arr = [];
 
